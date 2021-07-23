@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We create a variable called secret.
+// We create a variable called code and assign a value of 123.
+// If the variable code is equal to 123, assign secret the vaule of 'super' and multiply the variable code by 2.
+// if the variable code is greater than 250, assign the variable secret the value of 'duper'
+// 
 
 //CODE
 /*
