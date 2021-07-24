@@ -74,10 +74,10 @@ console.log(secret)
 // We assign the variable isStudent the boolean value of true
 // We assign the variable age the value of 34.
 // We assign the variable zip the value of 55407
-// If the variable isStudent is true and the variable zip is greater than 80000, execute console.log('You're a student on the West Coast!')
-// If the variable isStudent is false or the variable age is less than 30, execute console.log('What are your hobbies?')
-// If the variable isStudent is true, execute console.log('Welcome to Prime!')
-// If the variable isStudent is left undefined, execute console.log('How about the weather?')
+// We check to see if the value of isStudent is true and the value of zip is over 80000. It's under 80000 so this code won't run.
+// We check to see if the value of isStudent is false or the value of age is under 30.  Both conditions evaluate to false and this code is not executed.
+// We check to see if the value of isStudent is true.  This condition evaluates to true and the code console.log('Welcome to Prime!') is executed.
+//
 //
 
 //CODE
@@ -135,6 +135,7 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+//FIX - colorOne is set to red and colorTwo is set to blue, but the instructions ask that colorOne be set to 'blue and colorTwo is set to 'red'.
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
