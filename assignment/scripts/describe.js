@@ -152,7 +152,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+//FIX the logical operator OR (||) is being used when the instructions ask for the AND operator (&&)
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
