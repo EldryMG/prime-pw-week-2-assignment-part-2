@@ -49,7 +49,7 @@ if (name === 'Mary') {
 // We create a variable called code and assign a value of 123.
 // If the variable code is equal to 123, assign secret the vaule of 'super' and multiply the variable code by 2.
 // if the variable code is greater than 250, assign the variable secret the value of 'duper'
-// 
+//
 
 //CODE
 /*
@@ -71,9 +71,13 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
+// We assign the variable isStudent the boolean value of true
+// We assign the variable age the value of 34.
+// We assign the variable zip the value of 55407
+// If the variable isStudent is true and the variable zip is greater than 80000, execute console.log('You're a student on the West Coast!')
+// If the variable isStudent is false or the variable age is less than 30, execute console.log('What are your hobbies?')
+// If the variable isStudent is true, execute console.log('Welcome to Prime!')
+// If the variable isStudent is left undefined, execute console.log('How about the weather?')
 //
 
 //CODE
